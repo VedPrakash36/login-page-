@@ -1,0 +1,20 @@
+body{
+background-image: repeating-linear-gradient(135deg, rgba(255,255,255,0.04) 0px, rgba(255,255,255,0.04) 2px,transparent 2px, transparent 4px),linear-gradient(90deg, rgb(228, 89, 168),rgb(97, 16, 129));
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 65px;
+}
+.container{
+    background-color: lightgoldenrodyellow;
+    width: 320px;
+    height: 360px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sb{
+    background-color: green;
+}
+
